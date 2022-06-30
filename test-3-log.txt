@@ -1,0 +1,6 @@
+34:90:45:34:23|runtime|estimated the COMPLEXITY OF subpart$.$ in program
+34:90:45:34:23|runtime|estimated the complexity of subpart$.$ in program
+34:90:45:34:23|runtime|ESTIMATED the complexity of subpart$.$ in program
+34:90:45:34:23|runtime|estimated the complexity of subpart$.$ in program
+34:90:45:34:23|runtime|estimated the complexity of subpart$.$ in program
+34:90:45:34:23|runtime|estimated the complexity of SUBPART$.$ in program

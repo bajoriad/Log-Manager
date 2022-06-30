@@ -1,0 +1,11 @@
+89:90:45:34:23|other language|modified for any language
+89:90:45:34:23|german lang|modified the code base for german language ("Select" * German)
+89:90:45:34:23|french lang|made code base for supporting french language
+89:90:45:34:23|API deployment|deployed the api
+89:90:45:34:23|porgram SPACE|checked space complexity
+89:90:45:34:23|network-pair|checked if program network connected with others
+89:90:45:34:23|PoRgram space|checked space complexity
+89:90:45:34:23|pair-program|pair programmig tools developed
+89:90:45:34:23|brightness-check|chech bright bright bright again
+89:90:45:34:23|network-pair|checked if program network connected with others
+89:90:45:34:23|porgram space|checked space complexity

@@ -1,0 +1,19 @@
+t 20:00:00:01:00|90:00:00:00:00
+t 00:00:00:00:00|00:00:00:00:01
+m 88:88:88:88:88
+m 67:90:67:45:90
+c nice
+c network-thread
+c sunflower
+k runtime
+k runtime runtime runtime
+k thread fix performed
+k fixed nice
+k Sunflower program runs in the computer he his
+a 13
+r
+d 10
+b 4
+e 5
+s
+q

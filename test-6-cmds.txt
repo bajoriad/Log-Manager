@@ -1,0 +1,19 @@
+k required fixed the issue
+m 89:90:45:34:23
+c PoRgram space
+k PoRgram space
+a 4
+b 6
+d 8
+g
+p
+s
+l
+t 80:00:00:00:00|89:90:45:34:22
+m 90:78:67:67:67
+k checked space complexity
+g
+p
+a 3
+s
+q

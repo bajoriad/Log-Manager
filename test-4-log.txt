@@ -1,0 +1,6 @@
+90:00:00:00:00|runtime|set the error alert number##
+67:90:67:45:90|runtime|set alert for serious problems
+34:90:34:89:90|runtime| fix newtwork thread
+45:00:67:00:45|runtime|modified code related to CPU error
+34:90:45:34:23|runtime|estimated the complexity of subpart$.$ in program
+89:67:10:00:90|runtime|PERFORMED multi## threading (OS check)

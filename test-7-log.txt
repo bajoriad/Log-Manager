@@ -1,0 +1,15 @@
+34:89:67:89:90|new-issue|fixed ##44%% issues
+45:89:45:45:89|old-issue| fixed the issue left be previous engineer
+34:78:56:00:00|porgram space| add comments &&
+56:56:56:56:56|delete-comments|  deleted the comments not required
+01:02:03:04:05|add files|add the file number $$56$$
+67:78:90:00:00|porgram space|added required files
+00:00:00:00:00|forced quit|fixed the problem of automatic quit (INcident - 90)
+34:89:00:56:00|red alert message|red alert message fixed
+23:89:00:00:00|message|provide a general message
+34:89:00:56:00|red alert message|red alert message fixed
+00:01:89:78:90|PorGRAM space|entry format - $$"Select"$$"date"$$"time".
+67:78:90:00:00|add multiple multiple files|added required files
+34:89:00:56:00|red alert message|red alert message fixed
+67:78:90:00:00|add multiple multiple files|added required files
+00:00:89:90:67|porgram space|checked space complexity

@@ -1,0 +1,19 @@
+r
+s
+l
+g
+m 23:78:90:34:67
+t 22:22:22:22:22|22:23:23:23:45
+c brightness-check
+k forced red alert
+g
+k nice hi he his
+a 19
+r
+d 5
+b 6
+s
+l
+p
+g
+q

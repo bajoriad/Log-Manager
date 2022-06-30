@@ -1,0 +1,19 @@
+g
+p
+t 00:00:00:00:00|22:22:22:22:22
+m 34:90:45:34:23
+m 99:99:99:99:99
+t 34:90:45:34:22|99:00:00:00:00
+c runtime
+c nice
+k ESTIMATED the complexity of subpart$.$ in program
+k SUBPART$.$ in
+k hit
+s
+r
+g
+p
+a 2
+b 3
+e 2
+q
